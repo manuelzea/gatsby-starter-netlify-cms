@@ -1,8 +1,6 @@
 ---
-title: 'Introduction'
+title: Introduction
 date: 2021/05/11 12:45:45 -0800
-description: 'Intro page'
+description: Intro page
 ---
-
-
-:wave: Hello!
+New edit for documentation framework spike
